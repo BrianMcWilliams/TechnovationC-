@@ -1,0 +1,4 @@
+﻿  TechnovationDemo.cpp
+C:\Users\DireStrait\source\repos\TechnovationDemo\TechnovationDemo\TechnovationDemo.cpp(21,22): error C3861: 'countCharacters': identifier not found
+C:\Users\DireStrait\source\repos\TechnovationDemo\TechnovationDemo\TechnovationDemo.cpp(26,2): error C3861: 'removeSpaces': identifier not found
+C:\Users\DireStrait\source\repos\TechnovationDemo\TechnovationDemo\TechnovationDemo.cpp(30,2): error C3861: 'reverseCharacters': identifier not found
